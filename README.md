@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎥 I’m currently working on completing my Economics degree at UC Irvine while expanding my skills in Data Analytics, Python, SQL, R, and STATA. And have a hands-on experience in Data Analytics<br>🤝 I’m looking to collaborate on projects that combine creative storytelling and data-driven analysis, especially in entertainment, consulting, or finance sectors.<br>🖐️ I’m looking for help with gaining more hands-on experience in real-world data analytics projects, internships, or research collaborations.<br>🌱 I’m currently learning advanced statistical modeling, machine learning, and business intelligence tools.<br>💬 Ask me about optimizing business operations or customer service, transitioning careers from creative industries to data-focused roles, or anything about data analysis!<br>⚡ Fun fact: My height(6'6") depreciates by about 1.5 inches throughout the day — I'm literally taller in the morning than in the evening!<br><br>
+I’m currently working on completing my Economics degree at UC Irvine while expanding my skills in Data Analytics, Python, SQL, R, and STATA. And have a hands-on experience in Data Analytics. I'm eager to collaborate on projects that combine creative storytelling and data-driven analysis, especially in entertainment, consulting, or finance sectors. Always open to gaining more hands-on experience in real-world data analytics projects, internships, or research collaborations.
 
 
 ## 🌐 Socials:
