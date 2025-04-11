@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 I’m currently working on completing my Economics degree at UC Irvine while expanding my skills in Data Analytics, Python, SQL, R, and STATA. I have a hands-on experience in Data Analytics. I'm eager to collaborate on projects that combine creative storytelling and data-driven analysis, especially in entertainment, consulting, or finance sectors. Always open to gaining even more hands-on experience in real-world data analytics projects, internships, or research collaborations.
